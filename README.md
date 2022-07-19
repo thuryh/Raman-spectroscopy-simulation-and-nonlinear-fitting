@@ -6,7 +6,7 @@ The mole fraction of major species (C2H4, N2, and O2) were retrieved by the meas
 
  # Code:
     Isolated N2 Raman scattering:
-    get_nu_all: Calculate all possible Raman shift of N2 molecule. 
+    get_nu_all: Calculate all possible vibrational and rotational energy state of N2 molecule in the unit of cm-1. 
     newraman_spectrum.m: Calculate the intensity at all possible Raman shift.
    
     Voigt profile to simulate broadening.
